@@ -5,7 +5,7 @@ Generate Procreate-compatible brushes from natural language using Claude Code.
 ## Quick Start
 
 ```sh
-git clone <repo-url> && cd bbrush
+git clone https://github.com/barakbl/procreate_brush_claude_tools && cd procreate_brush_claude_tools
 pip install Pillow numpy
 ```
 
